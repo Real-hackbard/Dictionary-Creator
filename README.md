@@ -50,7 +50,41 @@ The word ```abc``` in all possible variations with a multiplier of 4.
 
 ```
 
+# Examples:
+Anagrams may be created as a commentary on the subject. They may be a parody, a criticism or satire. 
+For example:
 
+* ```"New York Times" = "monkeys write"```
+* ```"Church of Scientology" = "rich-chosen goofy cult"```
+* ```"McDonald's restaurants" = "Uncle Sam's standard rot"```
+
+An anagram may also be a synonym of the original word or phrase. For example:
+
+* ```"evil" = "vile"```
+* ```"a gentleman" = "elegant man"```
+* ```"silent" = "listen"```
+* ```"eleven plus two" = "twelve plus one"```
+* ```"angered" = "enraged"```
+* ```"the eyes" = "they see"```
+
+An anagram that has a meaning opposed to that of the original word or phrase is called an "antigram".[4] For example:
+
+* ```"restful" = "fluster"```
+* ```"cheater" = "teacher"```
+* ```"funeral" = "real fun"```
+* ```"adultery" = "true lady"```
+* ```"forty five" = "over fifty"```
+* ```"Santa" = "Satan"```
+
+They can sometimes change from a proper noun or personal name into an appropriate sentence:
+
+* ```"William Shakespeare" = "I am a weakish speller"```
+* ```"Madam Curie" = "Radium came"```
+* ```"George Bush" = "He bugs Gore"```
+* ```"Tom Marvolo Riddle" = "I am Lord Voldemort"```
+* ```"Jim Morrison" = "Mr Mojo Risin"```
+* ```"The Morse code" = "Here come dots"```
+* ```"Anagrams" itself can be anagrammatized as "Ars magna" (Latin, 'the great art').```
 
 
 
