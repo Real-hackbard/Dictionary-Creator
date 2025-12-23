@@ -12,6 +12,46 @@
 
 An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. For example, the word anagram itself can be rearranged into the phrase "nag a ram"; which is an [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) suggestion in Google after searching for the word "anagram".
 
+The original word or phrase is known as the subject of the anagram. Any word or phrase that exactly reproduces the letters in another order is an anagram. Someone who creates anagrams may be called an "anagrammatist", and the goal of a serious or skilled anagrammatist is to produce anagrams that reflect or comment on their subject.
+
+</br>
+
+![Dictionary Creator](https://github.com/user-attachments/assets/eb9d1aff-3dcc-4002-9e01-135d1e67f63b)
+
+</br>
+
+The word ```abc``` in all possible variations with a multiplier of 3.
+
+```
+ a b c aa ab ac ba bb
+ bc ca cb cc aaa aab aac aba
+ abb abc aca acb acc baa bab bac
+ bba bbb bbc bca bcb bcc caa cab
+ cac cba cbb cbc cca ccb ccc
+```
+
+The word ```abc``` in all possible variations with a multiplier of 4.
+```
+  a b c aa ab ac ba bb
+ bc ca cb cc aaa aab aac aba
+ abb abc aca acb acc baa bab bac
+ bba bbb bbc bca bcb bcc caa cab
+ cac cba cbb cbc cca ccb ccc aaaa
+ aaab aaac aaba aabb aabc aaca aacb aacc
+ abaa abab abac abba abbb abbc abca abcb
+ abcc acaa acab acac acba acbb acbc acca
+ accb accc baaa baab baac baba babb babc
+ baca bacb bacc bbaa bbab bbac bbba bbbb
+ bbbc bbca bbcb bbcc bcaa bcab bcac bcba
+ bcbb bcbc bcca bccb bccc caaa caab caac
+ caba cabb cabc caca cacb cacc cbaa cbab
+ cbac cbba cbbb cbbc cbca cbcb cbcc ccaa
+ ccab ccac ccba ccbb ccbc ccca cccb cccc
+
+```
+
+
+
 
 
 
