@@ -60,6 +60,8 @@ For example:
 
 </br>
 
+#
+
 * ```"New York Times" = "monkeys write"```
 * ```"Church of Scientology" = "rich-chosen goofy cult"```
 * ```"McDonald's restaurants" = "Uncle Sam's standard rot"```
