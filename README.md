@@ -73,7 +73,7 @@ An anagram may also be a synonym of the original word or phrase. For example:
 * ```"angered" = "enraged"```
 * ```"the eyes" = "they see"```
 
-An anagram that has a meaning opposed to that of the original word or phrase is called an "antigram".[4] For example:
+An anagram that has a meaning opposed to that of the original word or phrase is called an "antigram". For example:
 
 * ```"restful" = "fluster"```
 * ```"cheater" = "teacher"```
