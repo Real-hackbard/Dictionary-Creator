@@ -10,7 +10,7 @@
 
 </br>
 
-
+An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. For example, the word anagram itself can be rearranged into the phrase "nag a ram"; which is an [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) suggestion in Google after searching for the word "anagram".
 
 
 
