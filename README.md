@@ -54,6 +54,12 @@ The word ```abc``` in all possible variations with a multiplier of 4.
 Anagrams may be created as a commentary on the subject. They may be a parody, a criticism or satire. 
 For example:
 
+</br>
+
+![Listen](https://github.com/user-attachments/assets/c38865b2-7fd9-4ac8-8e46-6a87563abfce)
+
+</br>
+
 * ```"New York Times" = "monkeys write"```
 * ```"Church of Scientology" = "rich-chosen goofy cult"```
 * ```"McDonald's restaurants" = "Uncle Sam's standard rot"```
