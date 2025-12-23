@@ -92,7 +92,9 @@ They can sometimes change from a proper noun or personal name into an appropriat
 * ```"The Morse code" = "Here come dots"```
 * ```"Anagrams" itself can be anagrammatized as "Ars magna" (Latin, 'the great art').```
 
+</br>
 
+While anagramming is certainly a recreation first, there are ways in which anagrams are put to use, and these can be more serious, or at least not quite frivolous and formless. For example, psychologists use anagram-oriented tests, often called "anagram solution tasks", to assess the implicit memory of young adults and adults alike.
 
 
 
